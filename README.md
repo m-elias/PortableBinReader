@@ -1,7 +1,7 @@
 # PortableBinReader
 
 # from Notes.ino
-/* 
+
  * Arduino 168/328 based DS18B20 portable reader for use with LCD Keypad shield
  * 
  * created 2017 04 04
@@ -47,4 +47,4 @@
  *  reads sensors once at boot up
  *  uses up/down buttons to scroll through list of sensors
  * 
- */
+
