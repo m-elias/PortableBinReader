@@ -36,7 +36,8 @@
  * v03
  *  added code to detect Arduino's Vcc and scale Keypad shield analog button detected accordingly
  *    The Keypad shield operates at 5V
- *      SELECT button does not work on 3.3V systems as it cannot pull down enough on the analog input to register a change
+ *      SELECT button does not work on 3.3V systems
+ *      as it cannot pull down enough on the analog input to register a change
  *  changed temp units display toggle to RIGHT button
  *  
  * v02
